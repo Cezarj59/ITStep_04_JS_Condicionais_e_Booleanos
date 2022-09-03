@@ -10,8 +10,9 @@
 <li>true</li>
 <li>false</li>
 <li>if else</li>
-<li>&&</li>
-<li>==</li>
+<li>=</li>
+<li>></li>
 <li>>=</li>
+<li><</li>
 <li><=</li>
 </ul>
